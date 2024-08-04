@@ -313,7 +313,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [TimeChunks](https://danielulrich.com/en/timechunks/) ![closed source] - Time tracking for freelancers without timers and HH:MM:SS inputs.
 - [WindowPet](https://github.com/SeakMengs/WindowPet) - Overlay app that lets you have adorable companions such as pets and anime characters on your screen.
 - [Zawee](https://zawee.net) ![closed source] - Experience the synergy of Kanban boards, note-taking, file sharing, and more, seamlessly integrated into one powerful application.
-
+- [SwitchShuttle](https://github.com/s00d/switchshuttle) - SwitchShuttle is a cross-platform system tray application that allows users to run predefined commands in various terminal applications. 
+- 
 ### Search
 
 - [Harana](https://github.com/harana/search) - Search your desktop and 300+ cloud apps, instantly.
